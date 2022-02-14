@@ -1,4 +1,4 @@
 ZYFoundation
 ============
 
-a foundation for ios
+A foundation for iOS
